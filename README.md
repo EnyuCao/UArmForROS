@@ -253,20 +253,20 @@ source ~/.bashrc
     uint8: servo_3
     uint8: servo_4
     ```
-- `uarm/Angles`
+- `uarm/Coords`
     ```
     float32: x
     float32: y
     float32: z
     ```
-- `uarm/Angles`
+- `uarm/CoordsWithTS4`
     ```
     float32: x
     float32: y
     float32: z
     uint8: time
     ```
-- `uarm/Angles`
+- `uarm/CoordsWithTime`
     ```
     float32: x
     float32: y
