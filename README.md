@@ -259,14 +259,14 @@ source ~/.bashrc
     float32: y
     float32: z
     ```
-- `uarm/CoordsWithTS4`
+- `uarm/CoordsWithTime`
     ```
     float32: x
     float32: y
     float32: z
     uint8: time
     ```
-- `uarm/CoordsWithTime`
+- `uarm/CoordsWithTS4`
     ```
     float32: x
     float32: y
